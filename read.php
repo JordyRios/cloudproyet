@@ -45,10 +45,10 @@
 
     <table>
         <tr>
-            <td> <a href="insert.php">Agregar un producto</a> </td>
-            <td> <a href="update.php">Modificar un producto</a> </td>
-            <td> <a href="delete.php">Eliminar un producto</a> </td>
-            <td> <a href="index.php">Ir a la pagina de inicio</a> </td>
+            <td> <a href="insert.php">Agregar</a> </td>
+            <td> <a href="update.php">Modificar</a> </td>
+            <td> <a href="delete.php">Eliminar</a> </td>
+            <td> <a href="index.php">Ir al inicio</a> </td>
         </tr>
     </table>
     
