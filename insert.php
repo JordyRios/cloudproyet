@@ -73,9 +73,9 @@
     <br> <br> <br>
     <table>
         <tr>
-            <td> <a href="insert.php">Agregar otro producto</a> </td>
-            <td> <a href="read.php">Ver productos</a> </td>
-            <td> <a href="index.php">Ir a la pagina de inicio</a> </td>
+            <td> <a href="insert.php">Agregar</a> </td>
+            <td> <a href="read.php">Ver</a> </td>
+            <td> <a href="index.php">Ir al inicio</a> </td>
         </tr>
     </table>
 
