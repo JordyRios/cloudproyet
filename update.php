@@ -69,9 +69,9 @@
     <br> <br> <br>
     <table>
         <tr>
-            <td> <a href="update.php">Actualizar otro producto</a> </td>
-            <td> <a href="read.php">Ver catalago</a> </td>
-            <td> <a href="index.php">Volver a la pagina de inicio</a> </td>
+            <td> <a href="update.php">Actualizar</a> </td>
+            <td> <a href="read.php">Ver</a> </td>
+            <td> <a href="index.php">Volver al inicio</a> </td>
         </tr>
     </table>
 
