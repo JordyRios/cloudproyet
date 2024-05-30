@@ -2,8 +2,8 @@
 
 // Configuration for database connection
 
-$host       = 'bd-app-service.mysql.database.azure.com';
-$username   = 'raul';
-$password   = '38RaCasar99*';
-$db_name    = 'bd_app_service';
+$host       = 'adminuser.mysql.database.azure.com';
+$username   = 'jordyrios';
+$password   = 'Chucha@1234567';
+$db_name    = 'azureuser';
 // $sslcert    = "ssl/DigiCertGlobalRootCA.crt.pem";
