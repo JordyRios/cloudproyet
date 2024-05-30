@@ -67,9 +67,9 @@
     <br> <br> <br>
     <table>
         <tr>
-            <td> <a href="delete.php">Eliminar otro producto</a> </td>
-            <td> <a href="read.php">Ver producto</a> </td>
-            <td> <a href="index.php">Ir a la pagina de inicio</a> </td>
+            <td> <a href="delete.php">Eliminar</a> </td>
+            <td> <a href="read.php">Ver </a> </td>
+            <td> <a href="index.php">Ir al inicio</a> </td>
         </tr>
     </table>
 
