@@ -10,7 +10,7 @@
 </head>
 <body>
 	<div class="center-align"> 
-		<h1>Tiendita - Ing. Raul Casar :3</h1>
+		<h1>Igresar datos</h1>
 		<p>Computo en la nube</p>
 		<p>Ing. Sistemas Computacionales</p>
 		<br>
