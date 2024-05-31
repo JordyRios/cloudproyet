@@ -2,8 +2,8 @@
 
 // Configuration for database connection
 
-$host       = 'database121.mysql.database.azure.com';
-$username   = 'azureuser';
+$host       = 'adminuser.mysql.database.azure.com';
+$username   = 'adminuser';
 $password   = 'Chucha@1234567';
-$db_name    = 'azureuser';
+$db_name    = 'proyect';
 // $sslcert    = "ssl/DigiCertGlobalRootCA.crt.pem";
